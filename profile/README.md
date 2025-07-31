@@ -1,4 +1,4 @@
-# 🚀 Welcome to NullSetBuilds
+# 🧠 Welcome to NullSetBuilds
 
 Welcome to **NullSetBuilds** — an experimental software collective building open tools for automation, infrastructure, developer productivity, and AI workflows.
 
