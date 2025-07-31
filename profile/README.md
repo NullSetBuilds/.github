@@ -25,7 +25,7 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 ## 📁 Explore the Org
 
 Check out our centralized project index:  
-🔗 [Projects-Overviewe](https://github.com/NullSetBuilds/projects-overview)
+🔗 [Projects-Overview](https://github.com/NullSetBuilds/projects-overview)
 
 Or browse all repos at:  
 🔗 [github.com/NullSetBuilds](https://github.com/NullSetBuilds)
