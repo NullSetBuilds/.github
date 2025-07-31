@@ -1,6 +1,6 @@
 # 🧠 Welcome to NullSetBuilds
 
-Welcome to **NullSetBuilds** — an experimental software collective building open tools for automation, infrastructure, developer productivity, and AI workflows.
+NullSetBuilds is an experimental software collective building open tools for automation, infrastructure, developer productivity, and AI workflows.
 
 Our mission is to create focused, functional, and developer-friendly solutions for real-world technical challenges.
 
@@ -18,14 +18,14 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 - [metrics-dashboard](https://github.com/NullSetBuilds/metrics-dashboard): Supabase + Recharts real-time metric monitoring for teams.
 
 🔹 **Dev Infrastructure**
-- [docker-stack](https://github.com/NullSetBuilds/dev-stack): Containerized stack for rapid local development.
+- [Dev-stack](https://github.com/NullSetBuilds/services): Containerized stack for rapid local development.
 
 ---
 
 ## 📁 Explore the Org
 
 Check out our centralized project index:  
-🔗 [NullSetBuilds-Home](https://github.com/NullSetBuilds/NullSetBuilds-Home)
+🔗 [Projects-Overviewe](https://github.com/NullSetBuilds/projects-overview)
 
 Or browse all repos at:  
 🔗 [github.com/NullSetBuilds](https://github.com/NullSetBuilds)
