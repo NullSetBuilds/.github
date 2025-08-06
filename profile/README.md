@@ -9,13 +9,13 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 ## 🚀 Active Projects
 
 🔹 **Workflow Automation**
-- [automation-pipeline](https://github.com/NullSetBuilds/automation-pipeline): End-to-end no-code automation using n8n and Redis.
+- [automation-pipeline](https://github.com/NullSetBuilds/services): End-to-end no-code automation using n8n and Redis.
 
 🔹 **AI & Transcription**
-- [ai-pipeline](https://github.com/NullSetBuilds/ai-pipeline): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
+- [ai-pipeline](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
 
 🔹 **Dashboards & Observability**
-- [metrics-dashboard](https://github.com/NullSetBuilds/metrics-dashboard): Supabase + Recharts real-time metric monitoring for teams.
+- [metrics-dashboard](https://github.com/NullSetBuilds/services): Supabase + Recharts real-time metric monitoring for teams.
 
 🔹 **Dev Infrastructure**
 - [Dev-stack](https://github.com/NullSetBuilds/services): Containerized stack for rapid local development.
