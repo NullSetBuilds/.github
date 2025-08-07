@@ -9,7 +9,7 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 ## 🚀 Active Projects
 
 🔹 **Workflow Automation**
-- [automation-pipeline](https://github.com/NullSetBuilds/services): End-to-end no-code automation using n8n and Redis.
+- [agentic-workforce](https://github.com/NullSetBuilds/services): End-to-end no-code automation using n8n and Redis.
 
 🔹 **AI & Transcription**
 - [ai-pipeline](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
