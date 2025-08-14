@@ -42,7 +42,7 @@ Or browse all repos at:
 
 We welcome open-source contributors, testers, and curious developers.
 
-Open an issue in any repo or start a discussion in our [Home repo](https://github.com/NullSetBuilds/NullSetBuilds-Home/discussions)
+Open an issue in any repo or start a discussion in our [Home repo](https://github.com/NullSetBuilds/.github/issues)
 
 ---
 
