@@ -9,7 +9,7 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 ## 🚀 Active Projects
 
 🔹 **Workflow Automation**
-- [ACOE-agentic-workforce](https://github.com/NullSetBuilds/ACOE): End-to-end no-code automation using n8n and Redis.
+- [ACOE-agentic-workforce](https://github.com/NullSetBuilds/ACOE): End-to-end no-code automation using n8n, Qdrant, Ollama and Supabase.
 
 🔹 **Binge-Games**
 - [Binge-Games](https://github.com/NullSetBuilds/bingegames): is your one-stop, searchable catalog for board games, movies, video games, and card games — all reimagined with AI-generated drinking rules and themed beverages. Whether it’s a classic movie night, a throwback gaming session, or a spontaneous board game battle, Binge-Games turns any activity into an unforgettable social event.
