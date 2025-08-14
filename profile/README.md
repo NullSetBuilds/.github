@@ -11,6 +11,12 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 🔹 **Workflow Automation**
 - [ACOE-agentic-workforce](https://github.com/NullSetBuilds/ACOE): End-to-end no-code automation using n8n and Redis.
 
+🔹 **Binge-Games**
+- [Binge-Games](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
+
+🔹 **Sync-City**
+- [Sync-City](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
+
 🔹 **AI & Transcription**
 - [ai-pipeline](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
 
