@@ -17,8 +17,8 @@ Our mission is to create focused, functional, and developer-friendly solutions f
 🔹 **Sync-City**
 - [Sync-City](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
 
-🔹 **AI & Transcription**
-- [ai-pipeline](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
+🔹 **Project Plato**
+- [Project Plato](https://github.com/NullSetBuilds/services): Local LLM pipelines using Whisper, LangChain, and Ollama for smart meeting transcription and data enrichment.
 
 🔹 **Dashboards & Observability**
 - [metrics-dashboard](https://github.com/NullSetBuilds/services): Supabase + Recharts real-time metric monitoring for teams.
